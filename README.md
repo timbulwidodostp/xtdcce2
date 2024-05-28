@@ -5,6 +5,8 @@ Estimating heterogeneous coefficient models using common correlated effects in a
 
 (Dynamic) Common Correlated Effects Estimator - Mean Group Use xtdcce2 With STATA 18
 
+https://www.youtube.com/watch?v=GV6mNnthB7g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
